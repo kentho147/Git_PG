@@ -1,2 +1,2 @@
 # Git_PG
-manual write
+chagned from pp
